@@ -25,12 +25,39 @@
     &nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
+<h2>
 <p align="center">
 <img src="https://github.com/pavlin-dimitrov/pavlin-dimitrov/blob/master/main/pics/mainText.JPG" style="width: 80%;">
 </p>
+</h2>
 
-Feel free to reach me at pavlin.k.dimitrov@gmail.com to discuss potential collaboration or job opportunities.
-
+<h2 align="center" dir="auto"> The fruits of my labor </h2>
+<p align="center" dir="auto">
+    <a href="https://github.com/pavlin-dimitrov/Tinder" rel="nofllow">
+        <img height="30" src="https://github.com/pavlin-dimitrov/pavlin-dimitrov/blob/master/main/icons/tinder.png" style="max-width: 100%;">
+    </a>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://github.com/pavlin-dimitrov/BlogPlatform" rel="nofllow">
+        <img height="30" src="https://github.com/pavlin-dimitrov/pavlin-dimitrov/blob/master/main/icons/blog.png" style="max-width: 100%;">
+    </a>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://github.com/pavlin-dimitrov/FileOrganizer" rel="nofllow">
+        <img height="35" src="https://github.com/pavlin-dimitrov/pavlin-dimitrov/blob/master/main/icons/organizer.png" style="max-width: 100%;">
+    </a>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://github.com/pavlin-dimitrov/StudentSpringBoot" rel="nofllow">
+        <img height="30" src="https://github.com/pavlin-dimitrov/pavlin-dimitrov/blob/master/main/icons/student.png" style="max-width: 100%;">
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://github.com/pavlin-dimitrov/AuthorshipDetector" rel="nofllow">
+        <img height="30" src="https://github.com/pavlin-dimitrov/pavlin-dimitrov/blob/master/main/icons/author.png" style="max-width: 100%;">
+    </a>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://github.com/pavlin-dimitrov/php-mysql" rel="nofllow">
+        <img height="30" src="https://github.com/pavlin-dimitrov/pavlin-dimitrov/blob/master/main/icons/village.png" style="max-width: 100%;">
+    </a>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
 
 
 ## 📈 GitHub Stats
@@ -39,3 +66,4 @@ Feel free to reach me at pavlin.k.dimitrov@gmail.com to discuss potential collab
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavlin-dimitrov&layout=compact&theme=tokyonight" alt="Top languages" width="300px" />
 </p>
 
+Feel free to reach me at [pavlin.k.dimitrov@gmail.com](pavlin.k.dimitrov@gmail.com) to discuss potential collaboration or job opportunities.
