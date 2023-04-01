@@ -25,8 +25,11 @@
     &nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-<img src="https://github.com/pavlin-dimitrov/pavlin-dimitrov/blob/master/main/pics/mainText.JPG" style="max-width: 80%;">
+<p align="center">
+<img src="https://github.com/pavlin-dimitrov/pavlin-dimitrov/blob/master/main/pics/mainText.JPG" style="width: 80%;">
+</p>
 
+Feel free to reach me at pavlin.k.dimitrov@gmail.com to discuss potential collaboration or job opportunities.
 
 
 
