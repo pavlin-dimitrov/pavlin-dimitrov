@@ -36,8 +36,8 @@ Feel free to reach me at pavlin.k.dimitrov@gmail.com to discuss potential collab
 </p>
 
 ## 📈 GitHub Stats
-<p float="left">
+<p align="center" float="left">
   <img src="https://github-readme-stats.vercel.app/api?username=pavlin-dimitrov&show_icons=true&theme=tokyonight" alt="Your GitHub stats" width="395px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavlin-dimitrov&layout=compact&theme=tokyonight" alt="Top languages" width="305px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavlin-dimitrov&layout=compact&theme=tokyonight" alt="Top languages" width="300px" />
 </p>
 
