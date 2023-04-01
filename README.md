@@ -14,10 +14,6 @@
     <a href="https://www.instagram.com/pav.cho/" rel="nofllow">
         <img height="30" src="https://github.com/pavlin-dimitrov/pavlin-dimitrov/blob/master/main/icons/instagram.png" style="max-width: 100%;">
     </a>
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.instagram.com/pav.cho/" rel="nofllow">
-        <img height="35" src="https://github.com/pavlin-dimitrov/pavlin-dimitrov/blob/master/main/icons/coffee.png" style="max-width: 100%;">
-    </a>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.upwork.com/freelancers/~0170410c36a32d19ab" rel="nofllow">
         <img height="30" src="https://github.com/pavlin-dimitrov/pavlin-dimitrov/blob/master/main/icons/upwork.png" style="max-width: 100%;">
