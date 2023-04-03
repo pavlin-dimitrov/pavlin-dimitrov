@@ -30,27 +30,27 @@
 <h2 align="center" dir="auto"> The fruits of my labor </h2>
 <p align="center" dir="auto">
     <a href="https://github.com/pavlin-dimitrov/Tinder" rel="nofllow">
-        <img height="30" src="https://github.com/pavlin-dimitrov/pavlin-dimitrov/blob/master/main/icons/tinder.png" style="max-width: 100%;">
+        <img height="30" src="https://github.com/pavlin-dimitrov/pavlin-dimitrov/blob/master/main/icons/tinder.png" title="Tinder Clone App" style="max-width: 100%;">
     </a>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://github.com/pavlin-dimitrov/BlogPlatform" rel="nofllow">
-        <img height="30" src="https://github.com/pavlin-dimitrov/pavlin-dimitrov/blob/master/main/icons/blog.png" style="max-width: 100%;">
+        <img height="30" src="https://github.com/pavlin-dimitrov/pavlin-dimitrov/blob/master/main/icons/blog.png" title="Blog Platform" style="max-width: 100%;">
     </a>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://github.com/pavlin-dimitrov/FileOrganizer" rel="nofllow">
-        <img height="35" src="https://github.com/pavlin-dimitrov/pavlin-dimitrov/blob/master/main/icons/organizer.png" style="max-width: 100%;">
+        <img height="35" src="https://github.com/pavlin-dimitrov/pavlin-dimitrov/blob/master/main/icons/organizer.png" title="File Organizer" style="max-width: 100%;">
     </a>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://github.com/pavlin-dimitrov/StudentSpringBoot" rel="nofllow">
-        <img height="30" src="https://github.com/pavlin-dimitrov/pavlin-dimitrov/blob/master/main/icons/student.png" style="max-width: 100%;">
+        <img height="30" src="https://github.com/pavlin-dimitrov/pavlin-dimitrov/blob/master/main/icons/student.png" title="Spring Boot Init" style="max-width: 100%;">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://github.com/pavlin-dimitrov/AuthorshipDetector" rel="nofllow">
-        <img height="30" src="https://github.com/pavlin-dimitrov/pavlin-dimitrov/blob/master/main/icons/author.png" style="max-width: 100%;">
+        <img height="30" src="https://github.com/pavlin-dimitrov/pavlin-dimitrov/blob/master/main/icons/author.png" title="Authorship Detector" style="max-width: 100%;">
     </a>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://github.com/pavlin-dimitrov/php-mysql" rel="nofllow">
-        <img height="30" src="https://github.com/pavlin-dimitrov/pavlin-dimitrov/blob/master/main/icons/village.png" style="max-width: 100%;">
+        <img height="30" src="https://github.com/pavlin-dimitrov/pavlin-dimitrov/blob/master/main/icons/village.png" title="IT Village" style="max-width: 100%;">
     </a>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
